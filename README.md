@@ -11,6 +11,8 @@ The Telegram Bot runs on a ESP8266 based control board FW that enables:
     - Set the target water temperature
     - Set PID parameters
 
+![Screenshot from 2021-05-27 08-37-29](https://user-images.githubusercontent.com/31935729/119865708-3e4aa180-bf1c-11eb-9c60-13659eaadcbb.png)
+
 # HW Parts
 
 - [Wemos Lolin D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)
